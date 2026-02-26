@@ -1,0 +1,272 @@
+[
+    {
+        "pha_id": "pha0",
+        "name": "ภญ.เทียมใจ ตั้งเจริญไพศาล",
+        "nickname": "พี่ใจ",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha51",
+        "name": "ภญ.มัณทนา คันทะเรศร",
+        "nickname": "พี่หนึ่ง",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha12",
+        "name": "ภญ.นิภาพันธ์ มานักฆ้อง",
+        "nickname": "พี่เปรี้ยว",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha47",
+        "name": "ภญ.แสงเธียร คณิตปัญญาเจริญ",
+        "nickname": "พี่ต่าย",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha48",
+        "name": "ภญ.ปราณี แสงรอด",
+        "nickname": "พี่แมว",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha57",
+        "name": "ภญ.นิธิมา เศรษฐธรกุล",
+        "nickname": "พี่มุก",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha16",
+        "name": "ภญ.พนิดา ชูประเสริฐสุข",
+        "nickname": "พี่แอน",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha109",
+        "name": "ภก.สมหมาย พิมพ์อูบ",
+        "nickname": "พี่ต๋อง",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha87",
+        "name": "ภญ.เสาวภาคย์ ตั้งเจริญไพศาล",
+        "nickname": "พี่โหน่ง",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha154",
+        "name": "ภญ.อรจิตรา จันทร์ตระกูล",
+        "nickname": "พี่มะเหมี่ยว",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha50",
+        "name": "ภญ.ปรียานุช รอดทอง",
+        "nickname": "พี่นุช",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha99",
+        "name": "ภญ.ฑิฆัมพร ดวงอาทิตย์",
+        "nickname": "พี่ฝน(ฑิ)",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha134",
+        "name": "ภญ.สุฐิยาภรณ์ อยู่สุข",
+        "nickname": "พี่นุก",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha71",
+        "name": "ภญ.นรารักษ์ อยู่เกิด",
+        "nickname": "พี่เอ๋",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha111",
+        "name": "ภญ.กุลวดี ปรางทอง",
+        "nickname": "พี่กุล",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha127",
+        "name": "ภญ.กณิศบุศย์ ธนิกภาธร",
+        "nickname": "ปริม",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha43",
+        "name": "ภญ.เสาวนีย์ หวังปรีดาเลิศกุล",
+        "nickname": "พี่หงส์",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha49",
+        "name": "ภญ.จอมขวัญ ชูคง",
+        "nickname": "พี่กุ้ง",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha96",
+        "name": "ภญ.พัจนภา เอื้อประเสริฐ",
+        "nickname": "พี่นา",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha97",
+        "name": "ภญ.นํ้าฝน ปัญญาแจ้",
+        "nickname": "พี่โก๊ะ",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha72",
+        "name": "ภก.รักสกุล พูนนารถ",
+        "nickname": "พี่บัฟ",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha122",
+        "name": "ภญ.อนัญญา ทาเสนาะ",
+        "nickname": "เอฟ",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha150",
+        "name": "ภก.ประเจตน์ พุ่มเทียน",
+        "nickname": "เจส",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha139",
+        "name": "ภก.กฤษณพงศ์ ไชยวงศ์",
+        "nickname": "ฟอร์ม",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha106",
+        "name": "ภญ.กฤษฎิยากรณ์ โตงิ้ว",
+        "nickname": "กิ๊ฟ",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha131",
+        "name": "ภญ.อวัสดา สุขเกษม",
+        "nickname": "ว่าน",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha140",
+        "name": "ภญ.นัดดา ปัญญาแจ้",
+        "nickname": "คำแก้ว",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha175",
+        "name": "ภญ.ณิชา ปินตา",
+        "nickname": "มุก",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha176",
+        "name": "ภญ.ชิดชนก อัมพวานนท์",
+        "nickname": "ชิดชนก",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha82",
+        "name": "ภญ.สุกัลญา อินทโชติ",
+        "nickname": "พี่ตุ๊ก",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha149",
+        "name": "ภญ.ธมลวรรณ ขัดจวง",
+        "nickname": "ไหม",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha114",
+        "name": "ภญ.ฐิติมา ทุ่งสวย",
+        "nickname": "เบล",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha155",
+        "name": "ภญ.จิราภรณ์ สอนสิน",
+        "nickname": "ท็อป",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha138",
+        "name": "ภญ.กิติยา นิติศักดิ์",
+        "nickname": "กล้วย",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha105",
+        "name": "ภญ.จริยา ใจใหญ่",
+        "nickname": "หญิง",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha130",
+        "name": "ภญ.ภัทฐิชา หอมสร้อย",
+        "nickname": "แตง",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha167",
+        "name": "ภญ.พิชญสินี ฝั้นจักรสาย",
+        "nickname": "พลอย",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha178",
+        "name": "ภญ.กาญจนา เมืองฟ้า",
+        "nickname": "ANA",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha188",
+        "name": "ภญ.กัญญามาศ เศษวงศ์",
+        "nickname": "แอม",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha195",
+        "name": "ภก.นิติรุจน์ กังวาลธีรโรจน์",
+        "nickname": "โดม",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha202",
+        "name": "ภญ.เวธกา ศรีสมบัติ",
+        "nickname": "บิ๊กโบ๊ท",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha203",
+        "name": "ภญ.นันทิชา ตักเตือน",
+        "nickname": "เบียร์",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha208",
+        "name": "ภก.ธีรเดช วิชัย",
+        "nickname": "เอ",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha211",
+        "name": "ภญ.ณัฐนิช ไชยมงคล",
+        "nickname": "ยิ้ม",
+        "role": "pharmacist"
+    },
+    {
+        "pha_id": "pha215",
+        "name": "ภญ.ปริชญา น้อยวงษ์",
+        "nickname": "แก้ม",
+        "role": "pharmacist"
+    }
+]
