@@ -3,7 +3,9 @@
     "allow": [
       "Bash(ls:*)",
       "mcp__Claude_Preview__preview_start",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "Bash(lsof -i :3000)",
+      "Bash(kill 6124 6125)"
     ]
   }
 }
