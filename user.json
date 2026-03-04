@@ -429,7 +429,7 @@
     {
         "pha_id": "pha168", 
         "name": "น.ส.อรอนงค์ ยิ้มยรรยง", 
-        "nickname": "มาย", 
+        "nickname": "มาโล่", 
         "role": "pharmacy_technician", 
         "salary_number": "A795"
     },
@@ -471,7 +471,7 @@
     {
         "pha_id": "pha210", 
         "name": "นส.รุจรภี อินฟากท่า", 
-        "nickname": "ข้าว", 
+        "nickname": "ต้นข้าว", 
         "role": "pharmacy_technician", 
         "salary_number": "22634"
     },
@@ -485,21 +485,21 @@
     {
         "pha_id": "pha93", 
         "name": "นางชวนชื่น สอนอินทร์", 
-        "nickname": "พี่ชื่น", 
+        "nickname": "ชวนชื่น", 
         "role": "officer", 
         "salary_number": "21209"
     },
     {
         "pha_id": "pha90", 
         "name": "นางทิวา สุขก้อน", 
-        "nickname": "พี่ตา", 
+        "nickname": "ทิวา", 
         "role": "officer", 
         "salary_number": "21210"
     },
     {
         "pha_id": "pha92", 
         "name": "นางวรรณา ปั้นจาด", 
-        "nickname": "พี่ตุ้ม", 
+        "nickname": "วรรณา", 
         "role": "officer", 
         "salary_number": "21213"
     },
@@ -513,280 +513,280 @@
     {
         "pha_id": "pha91", 
         "name": "น.ส.นิศาชล ศรีทิพย์", 
-        "nickname": "พี่ฝนนิศาชล", 
+        "nickname": "นิศาชล", 
         "role": "officer", 
         "salary_number": "21212"
     },
     {
         "pha_id": "pha10", 
         "name": "นายชลิต มาสมาน", 
-        "nickname": "พี่กวาง", 
+        "nickname": "ชลิต", 
         "role": "officer", 
         "salary_number": "21208"
     },
     {
         "pha_id": "pha94", 
         "name": "นายอนุวัฒน์ อินทร์ทิพย์", 
-        "nickname": "อุ่ย", 
+        "nickname": "อนุวัฒน์", 
         "role": "officer", 
         "salary_number": "21217"
     },
     {
         "pha_id": "pha74", 
         "name": "นายอัครเดช แย้มชื่น", 
-        "nickname": "หนุ่ม", 
+        "nickname": "อัครเดช", 
         "role": "officer", 
         "salary_number": "21218"
     },
     {
         "pha_id": "pha189", 
         "name": "น.ส.นฤมล มั่นทอง", 
-        "nickname": "พี่แหม่ม", 
+        "nickname": "นฤมล", 
         "role": "officer", 
         "salary_number": "21948"
     },
     {
         "pha_id": "pha69", 
         "name": "น.ส.พรรษมณฑ์ สุทธิพรฐานันท์", 
-        "nickname": "อ้อม", 
+        "nickname": "พรรษมณฑ์", 
         "role": "officer", 
         "salary_number": "21214"
     },
     {
         "pha_id": "pha89", 
         "name": "น.ส.สุมิตรา จันทร์ศิริโพธิ์", 
-        "nickname": "อึ่ง", 
+        "nickname": "สุมิตรา", 
         "role": "officer", 
         "salary_number": "21249"
     },
     {
         "pha_id": "pha98", 
         "name": "นางอัจฉราพรรณ สอดจันทร์", 
-        "nickname": "พี่แต้", 
+        "nickname": "อัจฉราพรรณ", 
         "role": "officer", 
         "salary_number": "21944"
     },
     {
         "pha_id": "pha164", 
         "name": "นายเฉลย โกฎแสง", 
-        "nickname": "พี่อู๊ด", 
+        "nickname": "เฉลย", 
         "role": "officer", 
         "salary_number": "21945"
     },
     {
         "pha_id": "pha137", 
         "name": "นายนิวัฒน์ คำพัน", 
-        "nickname": "วัฒ", 
+        "nickname": "นิวัฒน์", 
         "role": "officer", 
         "salary_number": "21947"
     },
     {
         "pha_id": "pha115", 
         "name": "นายวรายุทธ พิมพ์พา", 
-        "nickname": "ก้อง", 
+        "nickname": "วรายุทธ", 
         "role": "officer", 
         "salary_number": "21946"
     },
     {
         "pha_id": "pha64", 
         "name": "นายสาน เรือนคำ", 
-        "nickname": "พี่สาน", 
+        "nickname": "สาน", 
         "role": "officer", 
         "salary_number": "21943"
     },
     {
         "pha_id": "pha152", 
         "name": "น.ส.ปัจมาวดี พุกสุริย์วงษ์", 
-        "nickname": "แอน", 
+        "nickname": "ปัจมาวดี", 
         "role": "officer", 
         "salary_number": "21855"
     },
     {
         "pha_id": "pha103", 
         "name": "น.ส.มยุรี จิตรมั่น", 
-        "nickname": "ปุ้ย", 
+        "nickname": "มยุรี", 
         "role": "officer", 
         "salary_number": "21215"
     },
     {
         "pha_id": "pha104", 
         "name": "นางสุนันท์ แดงใส", 
-        "nickname": "อึ่ง", 
+        "nickname": "สุนันท์", 
         "role": "officer", 
         "salary_number": "21853"
     },
     {
         "pha_id": "pha151", 
         "name": "นายกึกก้อง สิงหฤทธิ์", 
-        "nickname": "นิก", 
+        "nickname": "กึกก้อง", 
         "role": "officer", 
         "salary_number": "21856"
     },
     {
         "pha_id": "pha148", 
         "name": "นายนพพร เกตุเนียม", 
-        "nickname": "ด้า", 
+        "nickname": "นพพร", 
         "role": "officer", 
         "salary_number": "22125"
     },
     {
         "pha_id": "pha129", 
         "name": "นายบุญเรือง จันทร์เส็ง", 
-        "nickname": "พี่ม่า", 
+        "nickname": "บุญเรือง", 
         "role": "officer", 
         "salary_number": "21854"
     },
     {
         "pha_id": "pha102", 
         "name": "นายศุภชัย เส็งเมือง", 
-        "nickname": "หน่ึง", 
+        "nickname": "ศุภชัย", 
         "role": "officer", 
         "salary_number": "21216"
     },
     {
         "pha_id": "pha165", 
         "name": "นายอภิเชษฐ สีขำมี", 
-        "nickname": "เชษฐ", 
+        "nickname": "อภิเชษฐ", 
         "role": "officer", 
         "salary_number": "22118"
     },
     {
         "pha_id": "pha136", 
-        "name": "นางสาวอมรรัตน์ น้อยนาค", 
-        "nickname": "โฟม", 
+        "name": "น.ส.อมรรัตน์ น้อยนาค", 
+        "nickname": "อมรรัตน์", 
         "role": "officer", 
         "salary_number": "22208"
     },
     {
         "pha_id": "pha161", 
         "name": "นายภาคิน ดูงาม", 
-        "nickname": "อัฐ", 
+        "nickname": "ภาคิน", 
         "role": "officer", 
         "salary_number": "22210"
     },
     {
         "pha_id": "pha159", 
-        "name": "นางสาวสุปราณี ปั้นจาด", 
-        "nickname": "เจ", 
+        "name": "น.ส.สุปราณี ปั้นจาด", 
+        "nickname": "สุปราณี", 
         "role": "officer", 
         "salary_number": "22209"
     },
     {
         "pha_id": "pha163", 
         "name": "นายธนกร ปิ่นแก้ว", 
-        "nickname": "โย", 
+        "nickname": "ธนกร", 
         "role": "officer", 
         "salary_number": "22211"
     },
     {
         "pha_id": "pha169", 
         "name": "นายรุ่งโรจน์ รอดตะเภา", 
-        "nickname": "แซงค์", 
+        "nickname": "รุ่งโรจน์", 
         "role": "officer", 
         "salary_number": "22331"
     },
     {
         "pha_id": "pha170", 
         "name": "นายเอกสิทธิ์ อินเปีย", 
-        "nickname": "เอก", 
+        "nickname": "เอกสิทธิ์", 
         "role": "officer", 
         "salary_number": "22330"
     },
     {
         "pha_id": "pha182", 
-        "name": "นางสาวรติ คมกฤส", 
-        "nickname": "ไทม์", 
+        "name": "น.ส.รติ คมกฤส", 
+        "nickname": "รติ", 
         "role": "officer", 
         "salary_number": "22328"
     },
     {
         "pha_id": "pha183", 
         "name": "นายอรรถพล ครุธอินทร์", 
-        "nickname": "เจมส์", 
+        "nickname": "อรรถพล", 
         "role": "officer", 
         "salary_number": "22333"
     },
     {
         "pha_id": "pha181", 
-        "name": "นางสาวมาลี หว่างพันธุ์", 
-        "nickname": "หนิง", 
+        "name": "น.ส.มาลี หว่างพันธุ์", 
+        "nickname": "มาลี", 
         "role": "officer", 
         "salary_number": "22325"
     },
     {
         "pha_id": "pha160", 
-        "name": "นางสาววัชราภรณ์ ภู่โต", 
-        "nickname": "เบียร์", 
+        "name": "น.ส.วัชราภรณ์ ภู่โต", 
+        "nickname": "วัชราภรณ์", 
         "role": "officer", 
         "salary_number": "22399"
     },
     {
         "pha_id": "pha184", 
-        "name": "นางสาวผกาวดี โท้หลำ", 
-        "nickname": "แป๋ม", 
+        "name": "น.ส.ผกาวดี โท้หลำ", 
+        "nickname": "ผกาวดี", 
         "role": "officer", 
         "salary_number": "22425"
     },
     {
         "pha_id": "pha187", 
         "name": "นายชานน อินทปัญญา", 
-        "nickname": "กวาง", 
+        "nickname": "ชานน", 
         "role": "officer", 
         "salary_number": "22423"
     },
     {
         "pha_id": "pha185", 
         "name": "ว่าที่ร้อยตรีศิริพงศ์ เกตุทิม", 
-        "nickname": "อ๋อง", 
+        "nickname": "ศิริพงศ์", 
         "role": "officer", 
         "salary_number": "22424"
     },
     {
         "pha_id": "pha191", 
-        "name": "นางสาวจิราพรรณ จันทร์บุตร", 
-        "nickname": "มุก", 
+        "name": "น.ส.จิราพรรณ จันทร์บุตร", 
+        "nickname": "จิราพรรณ", 
         "role": "officer", 
         "salary_number": "22436"
     },
     {
         "pha_id": "pha193", 
-        "name": "นางสาวเพชรรัตน์ อยู่น้อย", 
-        "nickname": "อัน", 
+        "name": "น.ส.เพชรรัตน์ อยู่น้อย", 
+        "nickname": "เพชรรัตน์", 
         "role": "officer", 
         "salary_number": "22443"
     },
     {
         "pha_id": "pha204", 
-        "name": "นางสาวนารี บุญมาละ", 
-        "nickname": "แป้ง", 
+        "name": "น.ส.นารี บุญมาละ", 
+        "nickname": "นารี", 
         "role": "officer", 
         "salary_number": "22607"
     },
     {
         "pha_id": "pha207", 
         "name": "นายกิตติภพ ขาวพับ", 
-        "nickname": "เอ็ม", 
+        "nickname": "กิตติภพ", 
         "role": "officer", 
         "salary_number": "22613"
     },
     {
         "pha_id": "pha209", 
-        "name": "นางสาวกชกร ชัยเกิด", 
-        "nickname": "โบว์", 
+        "name": "น.ส.กชกร ชัยเกิด", 
+        "nickname": "กชกร", 
         "role": "officer", 
         "salary_number": "22632"
     },
     {
         "pha_id": "pha212", 
-        "name": "นางสาวนริศรา ศิริบูลย์ภักดี", 
-        "nickname": "น้ำหวาน", 
+        "name": "น.ส.นริศรา ศิริบูลย์ภักดี", 
+        "nickname": "นริศรา", 
         "role": "officer", 
         "salary_number": "22657"
     },
     {
         "pha_id": "pha213", 
-        "name": "นางสาวนิโลบล ปิ่นสุข", 
-        "nickname": "บี", 
+        "name": "น.ส.นิโลบล ปิ่นสุข", 
+        "nickname": "นิโลบล", 
         "role": "officer", 
         "salary_number": "22656"
     }
